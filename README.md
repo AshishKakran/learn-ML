@@ -14,7 +14,7 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <th> extras </th>
 </tr>
 <tr>
-<td> <a href="https://github.com/AshishKakran/learn-ML/blob/main/LinearRegression.ipynb"> linear regression </a> </td>
+<td> <a href="ordinary_linear_reg_grad_descent.ipynb"> linear regression (gradient descent) </a> </td>
 <td> <a href="https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2"> lecture</a> </td>
 <td> </td>
 </tr>
