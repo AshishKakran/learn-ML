@@ -21,6 +21,7 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 	<li> <a href="ordinary_linear_reg_grad_descent.ipynb"> linear regression (gradient descent) </a> </li>
 	<li>  <a href="ord_linear_reg_stochastic_GD.ipynb"> linear regression (stochastic GD) </a> </li>
 	<li> <a href="Polynomial_regression.ipynb"> Polynomial regression </a> </li>
+	<li> <a href="newton_raphson_log_reg.ipynb"> Logistic regression </a> </li>
     </ul></p>
 </td>
 <td> <a href="https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2"> lecture</a> </td>
