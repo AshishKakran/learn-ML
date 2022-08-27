@@ -27,7 +27,15 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 	<li> <a href="plot_tweedie_regression_insurance_claims.ipynb"> GLM </a>	</li>
     </ul></p>
 </td>
-<td> <a href="https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2"> lecture</a> </td>
+<td>
+<ul>
+<li> <a href="https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2"> ML problem setup </a> </li>
+<li> <a href="https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2"> LR and GD </a> </li>
+<li> <a href="https://www.youtube.com/watch?v=het9HFqo1TQ&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=3"> Weighted & Logistic regression </a> </li>
+<li> <a href="https://www.youtube.com/watch?v=iZTeva0WSTQ&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=4"> GLMs & cross-entroy min </a> </li>
+
+</ul>
+ </td>
 <td> <ul>
 	<li> <a href="pred_diabetes_progress.ipynb"> Predicting diabetes progression</a> </li>
 	</ul>
@@ -35,7 +43,7 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <td>
 <ul>
 <li> <a href="https://towardsdatascience.com/assumptions-of-linear-regression-fdb71ebeaa8b"> assumptions of LR </a> </li>
-<li> <a href="https://direct.mit.edu/neco/article-abstract/8/7/1341/6016/The-Lack-of-A-Priori-Distinctions-Between-Learning?redirectedFrom=fulltext"> No free lunch</a> </li>
+<li> <a href="https://dl.acm.org/doi/10.1162/neco.1996.8.7.1341"> No free lunch </a> </li> 
 <li> <a href="https://static.googleusercontent.com/media/research.google.com/fr//pubs/archive/35179.pdf"> data effects </a> </li>
 <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164764"> case study: GLM </a> </li>
  </ul>
