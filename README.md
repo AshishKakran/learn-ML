@@ -49,5 +49,20 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
  </ul>
  </td>
 </tr>
+<tr> 
+<td>	<ul>
+<li> <a href="Naive_bayes.ipynb"> Naive Bayes </a> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li> <a href="https://www.youtube.com/watch?v=nt63k3bfXS0&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=5"> GDA and Naive Bayes </a> </li>
+</ul>
+<td>
+</td>
+<td>
+</td>
+</tr>
 </table>
+
 
