@@ -3,8 +3,8 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 
 <ul>
 <li> <a href="https://cs229.stanford.edu/"> Course website </li>
-<li> <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU"> Video lectures </li>
-<li> <a href="https://see.stanford.edu/Course/CS229"> vintage version of cs229 </a>  </li>
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU"> Video lectures </li>
+<li><a href="https://see.stanford.edu/Course/CS229"> vintage version of cs229 </a>  </li>
 </ul>
 
 <table>
@@ -66,7 +66,7 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <tr> 
  <td>
    <ul>
- <li> <a href=SVM_classifiers.ipynb>Support Vector Machines </a><li>
+ <li> <a href=SVM_classifiers.ipynb>Support Vector Machines </a></li>
    </ul>
  </td>
  <td>
