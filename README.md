@@ -66,7 +66,7 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <tr> 
  <td>
    <ul>
- <li> Support Vector Machines<li>
+ <li> <a href=SVM_classifiers.ipynb>Support Vector Machines </a><li>
    </ul>
  </td>
  <td>
