@@ -63,6 +63,21 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <td>
 </td>
 </tr>
+<tr> 
+ <td>
+   <ul>
+ <li> Support Vector Machines<li>
+   </ul>
+ </td>
+ <td>
+  <ul>
+   <li> <a href="https://www.youtube.com/watch?v=lDwow4aOrtg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=6"> Support Vector Machines </a> </li>
+   <li> <a href="https://www.youtube.com/watch?v=8NYoQiRANpg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=7"> Kernels </a> </li>
+</ul>
+</td>
+<td> </td>
+<td> </td>
+</tr>
 </table>
 
 
