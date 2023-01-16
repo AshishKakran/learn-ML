@@ -75,7 +75,8 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
    <li> <a href="https://www.youtube.com/watch?v=8NYoQiRANpg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=7"> Kernels </a> </li>
 </ul>
 </td>
-<td> </td>
+<td> <ul> <li> <a href="MNIST_svm.ipynb"> Digit recognition </a> </li> </ul>
+</td>
 <td> </td>
 </tr>
 </table>
