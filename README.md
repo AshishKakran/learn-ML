@@ -62,14 +62,13 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <ul> <li> <a href="spam_classification.ipynb"> Spam classification using NB </a></li> </ul>
 </td>
 <td>
-<ul>
- <li> <a href="SVM_classifiers.ipynb">Support Vector Machines </a></li>
-   </ul>
 </td>
 </tr>
 <tr> 
  <td>
-   
+   <ul>
+ <li> <a href="SVM_classifiers.ipynb">Support Vector Machines </a></li>
+   </ul>
  </td>
  <td>
   <ul>
