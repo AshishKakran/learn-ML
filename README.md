@@ -76,10 +76,13 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
    <li> <a href="https://www.youtube.com/watch?v=8NYoQiRANpg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=7"> Kernels </a> </li>
 </ul>
 </td>
-<td> <ul> <li> <a href="MNIST_svm.ipynb"> Digit recognition </a> </li> </ul>
+<td> <ul> <li> <a href="MNIST_svm.ipynb"> Digit recognition (clf) </a> </li>
+<li> <a href="Predicting_house_prices.ipynb"> Housing price prediction (reg) </a> </li> </ul>
+<td> <ul> <li> <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-98-14.pdf"> SMO algorithm </a> </li>
+<li> <a href="https://dl.acm.org/doi/10.1145/1390156.1390208"> Dual coordinate descent </a></li>
+<li> <a href="https://proceedings.neurips.cc/paper/2000/file/155fa09596c7e18e50b58eb7e0c6ccb4-Paper.pdf"> Online learning </a> </li>
+<li> <a href="https://jmlr.org/papers/volume6/bordes05a/bordes05a.pdf"> Fast Kernels </a> </li>
+</ul>
 </td>
-<td> </td>
 </tr>
 </table>
-
-
