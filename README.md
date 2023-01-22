@@ -2,8 +2,8 @@
 Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) from stanford university)<br>
 
 <ul>
-<li> <a href="https://cs229.stanford.edu/"> Course website </li>
-<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU"> Video lectures </li>
+	<li> <a href="https://cs229.stanford.edu/"> Course website </a> </li>
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU"> Video lectures </a> </li>
 <li><a href="https://see.stanford.edu/Course/CS229"> vintage version of cs229 </a>  </li>
 </ul>
 
@@ -15,6 +15,7 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <th> extras </th>
 </tr>
 <tr>
+	
 <td> 
 	<p> Linear models 
 <ul>
@@ -58,6 +59,7 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <ul>
 <li> <a href="https://www.youtube.com/watch?v=nt63k3bfXS0&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=5"> GDA and Naive Bayes </a> </li>
 </ul>
+</td>
 <td>
 <ul> <li> <a href="spam_classification.ipynb"> Spam classification using NB </a></li> </ul>
 </td>
