@@ -88,4 +88,13 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 </ul>
 </td>
 </tr>
+<tr>
+<td>  <p> Nonparametric methods
+<ul> <li> <a href="decision_trees.ipynb"> Decision Trees </a> </li>
+ </ul>
+ </p></td>
+<td> </td>
+<td> </td>
+<td> </td>
+ </tr>
 </table>
