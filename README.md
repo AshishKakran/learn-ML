@@ -97,4 +97,14 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <td> </td>
 <td> </td>
  </tr>
+<tr>
+<td> <p> Learning theory
+<ul> <li> <a href="https://cs229.stanford.edu/notes2022fall/bias-variance.pdf"> Bias, variance and ERM </a></li>
+ </ul> </p> </td>
+<td> <ul> <li> <a href="https://www.youtube.com/watch?v=rjbkWSTjHzM&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=8"> Data Split, Models & CV </a> </li>
+<li> <a href="https://www.youtube.com/watch?v=iVOxMcumR4A&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=9"> Estimation Error and ERM </a> </li>
+</ul>  </td>
+<td> </td>
+<td> <ul> <li> <a href="https://epubs.siam.org/doi/10.1137/20M1336072"> Double Descent phenomenon </a> </li> </ul> </td>
+ </tr>
 </table>
