@@ -91,6 +91,7 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <tr>
 <td>  <p> Nonparametric methods
 <ul> <li> <a href="decision_trees.ipynb"> Decision Trees </a> </li>
+<li> <a href="ensemble.ipynb"> Ensemble learning </a> </li>
  </ul>
  </p></td>
 <td> </td>
