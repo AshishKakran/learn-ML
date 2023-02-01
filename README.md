@@ -94,7 +94,7 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <li> <a href="ensemble.ipynb"> Ensemble learning </a> </li>
  </ul>
  </p></td>
-<td> </td>
+<td> <a href="https://youtu.be/wr9gUr-eWdA"> DT & Ensemble methods </a></td>
 <td> </td>
 <td> </td>
  </tr>
