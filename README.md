@@ -64,6 +64,7 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <ul> <li> <a href="spam_classification.ipynb"> Spam classification using NB </a></li> </ul>
 </td>
 <td>
+<ul> <li> <a href="https://mathformachines.com/posts/discriminant-analysis/"> discriminant analysis </a> </li> </ul>
 </td>
 </tr>
 <tr> 
@@ -94,9 +95,22 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <li> <a href="ensemble.ipynb"> Ensemble learning </a> </li>
  </ul>
  </p></td>
-<td> <a href="https://youtu.be/wr9gUr-eWdA"> DT & Ensemble methods </a></td>
-<td> <a href="MNIST_ensemble.ipynb"> MNIST ensemble </a> </td>
-<td> </td>
+<td> <ul> <li> <a href="https://youtu.be/wr9gUr-eWdA"> DT & Ensemble methods </a> </li> </ul></td>
+<td> <ul> <li>  <a href="MNIST_ensemble.ipynb"> MNIST ensemble </a> </li> </ul> </td>
+<td> <ul>
+<li> <a href="https://www.stat.berkeley.edu/~breiman/bagging.pdf"> Bagging predictors </a> </li>
+
+<li> <a href="https://en.wikipedia.org/wiki/Bootstrap_aggregating"> Bootstrapping </a> </li>
+<li> <a href="https://dl.acm.org/doi/10.1023/A:1007563306331"> pasting </a> </li>
+<li> <a href="https://link.springer.com/chapter/10.1007/978-3-642-33460-3_28"> random patches </a> </li>
+<li> <a href="https://dl.acm.org/doi/10.1109/34.709601"> random subspaces </a> </li>
+<li> <a href="https://dl.acm.org/doi/10.5555/844379.844681"> random decision forests </a> </li>
+<li> <a href="https://link.springer.com/article/10.1007/s10994-006-6226-1"> extremely randomized trees </a> </li>
+<li> <a href="https://www.sciencedirect.com/science/article/pii/S002200009791504X"> boosting </a> </li>
+<li> <a href="https://hastie.su.domains/Papers/SII-2-3-A8-Zhu.pdf"> multiclass adaboost </a> </li>
+<li> <a href="https://www.jstor.org/stable/2699986"> Gradient boost </a> </li>
+<li> <a href="http://www.machine-learning.martinsewell.com/ensembles/stacking/Wolpert1992.pdf"> stacking </a> </li>
+ </ul> </td>
  </tr>
 <tr>
 <td> <p> Learning theory
