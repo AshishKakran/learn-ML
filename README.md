@@ -123,3 +123,20 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <td> <ul> <li> <a href="https://epubs.siam.org/doi/10.1137/20M1336072"> Double Descent phenomenon </a> </li> </ul> </td>
  </tr>
 </table>
+
+
+## Unsupervised learning
+
+<table>
+<tr>
+<th> Concept </th>
+<th> lecture </th>
+<th> applications</th>
+<th> extras </th>
+</tr>
+
+<tr> <td> Dimensionality Reduction 
+ <ul> <li> <a href="dimensionality_red.ipynb"> SVD & PCA </a>  </li> </ul>
+</td>
+ <td> </td> <td> </td> <td> </td> </tr>
+</table>
