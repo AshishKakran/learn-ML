@@ -138,5 +138,9 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <tr> <td> Dimensionality Reduction 
  <ul> <li> <a href="dimensionality_red.ipynb"> SVD & PCA </a>  </li> </ul>
 </td>
- <td> </td> <td> </td> <td> </td> </tr>
+ <td> </td>
+ <td> <ul> <li> <a href="compressing_MNIST.ipynb"> Visualising MNIST </a> </li> </ul> </td> 
+<td> <ul> <li> <a href="https://www.tandfonline.com/doi/abs/10.1080/14786440109462720"> PCA </a> </li> 
+<li> <a href="https://link.springer.com/chapter/10.1007/BFb0020217"> Kernel PCA </a> </li> 
+<li> <a href="https://www.science.org/doi/10.1126/science.290.5500.2323"> LLE </a> </li> </ul> </td> </tr>
 </table>
