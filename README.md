@@ -143,4 +143,13 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <td> <ul> <li> <a href="https://www.tandfonline.com/doi/abs/10.1080/14786440109462720"> PCA </a> </li> 
 <li> <a href="https://link.springer.com/chapter/10.1007/BFb0020217"> Kernel PCA </a> </li> 
 <li> <a href="https://www.science.org/doi/10.1126/science.290.5500.2323"> LLE </a> </li> </ul> </td> </tr>
+
+<tr>
+<td> <ul>
+ <li> <a href="clustering.ipynb"> K-means </a> </li> 
+</ul> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
 </table>
