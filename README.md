@@ -148,6 +148,7 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <td> <ul>
  <li> <a href="clustering.ipynb"> K-means </a> </li> 
  <li> <a href="dbscan.ipynb"> DBSCAN </a> </li>
+ <li> <a href="gaussian_mixture.ipynb"> Gaussian Mixtures </a> </li>
 </ul> </td>
 <td> </td>
 <td> <ul> <li> <a href="clustering_applications.ipynb"> Image segmentation </a> </li> </ul> </td>
