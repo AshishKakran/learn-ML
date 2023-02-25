@@ -151,7 +151,9 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
  <li> <a href="gaussian_mixture.ipynb"> Gaussian Mixtures </a> </li>
 </ul> </td>
 <td> </td>
-<td> <ul> <li> <a href="clustering_applications.ipynb"> Image segmentation </a> </li> </ul> </td>
+<td> <ul> <li> <a href="clustering_applications.ipynb"> Image segmentation </a> </li>
+<li> <a href="face_similiarity.ipynb"> Clustering faces in Olivetti dataset </a> </li>
+ </ul> </td>
 <td> </td>
 </tr>
 </table>
