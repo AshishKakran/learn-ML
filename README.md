@@ -154,6 +154,13 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <td> <ul> <li> <a href="clustering_applications.ipynb"> Image segmentation </a> </li>
 <li> <a href="face_similiarity.ipynb"> Clustering faces in Olivetti dataset </a> </li>
  </ul> </td>
-<td> </td>
+<td> <ul> 
+<li> <a href="https://ieeexplore.ieee.org/document/1056489"> KMeans </a> </li>
+<li> <a href="https://dl.acm.org/doi/10.5555/3041838.3041857"> Elkan's algorithm </a> </li>
+<li> <a href="https://dl.acm.org/doi/10.1145/3132847.3133091"> Fast Kmeans </a> </li>
+<li> <a href="https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf"> Kmeans++ </a> </li>
+
+</ul>
+ </td>
 </tr>
 </table>
