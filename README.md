@@ -7,6 +7,7 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <li><a href="https://see.stanford.edu/Course/CS229"> vintage version of cs229 </a>  </li>
 </ul>
 
+## Supervised learning
 <table>
 <tr>
 <th> Concept </th>
@@ -122,6 +123,20 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
 <td> </td>
 <td> <ul> <li> <a href="https://epubs.siam.org/doi/10.1137/20M1336072"> Double Descent phenomenon </a> </li> </ul> </td>
  </tr>
+<tr>
+<td> Neural Networks
+ <ul> <li> <a href="neural_networks.ipynb"> Introduction to NN </a> </li>
+<li> <a href="notes_chapter_Neural_Networks.pdf"> Optimizing NNs </a> <li>
+</ul>
+</td>
+<td> <ul> <li> <a href="https://youtu.be/MfIjxPh6Pys"> Introduction </a> </li>
+<li> <a href="https://youtu.be/zUazLXZZA2U"> Improving NNs </a> </li>
+ </ul> </td>
+<td> <ul> <li> <a href="fashion_MNIST.ipynb"> MNIST fashion clf </a> </li>
+<li> <a href="MNIST_MLP.ipynb"> MNIST digit MLP clf </a> </li>
+</td>
+<td> </td>
+</tr>
 </table>
 
 
@@ -164,3 +179,6 @@ Introduction to Machine learning (based on [CS229](https://cs229.stanford.edu/) 
  </td>
 </tr>
 </table>
+
+
+
